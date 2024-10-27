@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="250" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
+
 <p align="left"> <a href="https://twitter.com/pal_durgesh13" target="blank"><img src="https://img.shields.io/twitter/follow/pal_durgesh13?logo=twitter&style=for-the-badge" alt="pal_durgesh13" /></a> </p>
 
 - 🌱 I’m currently learning **React , Angular**
