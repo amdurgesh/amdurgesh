@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Android Development**
 
-- 📫 How to reach me **paldurgesh191@gmail.com**
-- 👨‍💻 All of my projects are available at **....**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1AD3vlvdIYjZoki8rOxO_tPIybX0SHeEy/view?usp=drivesdk**
+- 📫 How to reach me **https://amdurgesh.tech/**
 
 <div> <a href="https://twitter.com/@pal_durgesh13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amdurgesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
